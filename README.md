@@ -7,7 +7,7 @@ The motion detected state is then held for some user specified amount of time ev
 
 
 
-[![Click for video!](.\assets\youtube_thumbnail.png)](https://youtu.be/z_X5PFkaPwY)
+[![Click for video!](./assets/youtube_thumbnail.png)](https://youtu.be/z_X5PFkaPwY)
 
 
 
